@@ -17,3 +17,8 @@
       color: #8E806A;
       font-family: sans-serif;
     }
+
+    .profile {
+      height: 125px;
+      width: 125px;
+    }

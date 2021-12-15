@@ -1,0 +1,19 @@
+    body {
+      background-color: #f4f9f9;
+    }
+
+    hr {
+      border-color: gainsboro;
+      border-style: dotted hidden hidden hidden;
+      border-width: 5px;
+      width: 5%;
+    }
+
+    a {
+      padding: 0 1em 0 0;
+    }
+
+    h1, h3 {
+      color: #8E806A;
+      font-family: sans-serif;
+    }

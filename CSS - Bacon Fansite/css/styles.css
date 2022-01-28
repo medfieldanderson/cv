@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+  background-color: hsl(31,39%,66%);
+}
+h1 {
+  font-size: 100px;
+  color: brown;
+}
+
+p {
+  color: white;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
+img:hover {
+  background-color: gold;
+}
+#heading {
+  color: blue;
+}
+.bacon {
+  background-color: green;
+}
+.broccoli {
+  background-color: red;
+  border-radius: 100%;
+}
